@@ -4,49 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="024827b4-e35d-4a69-aff5-0cc6be1af719" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baekjoon/datastructure/p11720.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_13/sec01/AccessMemberAndLocalVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_13/sec01/createObjectAndAccessMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_13/sec01/createObjectAndAccessMember2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_13/sec02/AnonymousClass_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_13/sec02/AnonymousClass_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_13/sec02/AnonymousClass_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_13/sec02/AnonymousClass_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_13/sec03/InnerInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_14/sec01/CheckedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_14/sec04/CreateUserException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_15/sec02/CreateAndStartThread_M1C1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_15/sec02/CreateAndStartThread_M1C2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_15/sec02/CreateAndStartThread_M2C1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_15/sec03/KeyObject_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_15/sec03/SynchronizedBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_15/sec03/SynchronizedMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_15/sec03/ThreadProperties_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_15/sec03/ThreadProperties_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_15/sec03/ThreadProperties_3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_15/sec03/ThreadProperties_3_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_16/BoundedTypeOfGenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_16/GenericMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_16/ProblemsBeforeGeneric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_16/SingleGenericArgument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_16/TwoGenericArguments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_17/ArrayListMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_17/ArrayListVsLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_17/ArrayVsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_17/CreateListObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_17/HashMapMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_18/OOPvsFP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/quartzTest/JobConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/quartzTest/QuartzApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/quartzTest/TestJobA.java" afterDir="false" />
+    <list default="true" id="024827b4-e35d-4a69-aff5-0cc6be1af719" name="Changes" comment="숫자의 합 구하기. 백준 P11720번 문제">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/baekjoon/datastructure/p11720.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baekjoon/datastructure/p11720.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,8 +81,23 @@
       <workItem from="1680016161196" duration="5199000" />
       <workItem from="1681044775423" duration="7440000" />
       <workItem from="1681303035657" duration="15885000" />
-      <workItem from="1682435323181" duration="523000" />
+      <workItem from="1682435323181" duration="629000" />
     </task>
+    <task id="LOCAL-00001" summary="do it 스터디 소스 커밋">
+      <created>1682435947809</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682435947809</updated>
+    </task>
+    <task id="LOCAL-00002" summary="숫자의 합 구하기. 백준 P11720번 문제">
+      <created>1682435985879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682435985879</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,5 +113,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="do it 스터디 소스 커밋" />
+    <MESSAGE value="숫자의 합 구하기. 백준 P11720번 문제" />
+    <option name="LAST_COMMIT_MESSAGE" value="숫자의 합 구하기. 백준 P11720번 문제" />
   </component>
 </project>
