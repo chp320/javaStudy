@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="024827b4-e35d-4a69-aff5-0cc6be1af719" name="Changes" comment="숫자의 합 구하기. 백준 P11720번 문제">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baekjoon/datastructure/p1546.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/baekjoon/datastructure/p11720.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baekjoon/datastructure/p11720.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +51,7 @@
       <recent name="com.tistory.skyfox83.quartzTest" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.p1546">
     <configuration name="p11720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.baekjoon.datastructure.p11720" />
       <module name="javaStudy" />
@@ -63,8 +65,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p1546" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baekjoon.datastructure.p1546" />
+      <module name="javaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baekjoon.datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p1546" />
         <item itemvalue="Application.p11720" />
       </list>
     </recent_temporary>
@@ -81,7 +97,7 @@
       <workItem from="1680016161196" duration="5199000" />
       <workItem from="1681044775423" duration="7440000" />
       <workItem from="1681303035657" duration="15885000" />
-      <workItem from="1682435323181" duration="629000" />
+      <workItem from="1682435323181" duration="1559000" />
     </task>
     <task id="LOCAL-00001" summary="do it 스터디 소스 커밋">
       <created>1682435947809</created>
@@ -97,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682435985879</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="숫자의 합 구하기. 백준 P11720번 문제">
+      <created>1682436010769</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682436010769</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
