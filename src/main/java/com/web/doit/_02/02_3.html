@@ -1,0 +1,41 @@
+<!-- 가변 패딩 직접 적용하기 -->
+<!DOCTYPE HTML>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+<title>Document</title>
+<style>
+*{margin:0; padding:0;}
+
+#wrap {
+	width: 90%;
+	height: 500px;
+	margin: 0 auto;
+	border: 4px solid #000;
+}
+
+#wrap div {
+	width: 31.25%;	/* 300px / 960px */
+	display: inline-block;
+}
+
+#wrap div:first-child {
+	padding: 50px 5.20833333333333%;	/* 5.20... => 50px / 960px, 실제로는 50px, 5.20...3% 로 최종 100px 이 됨 */
+	background: #1f518b;
+}
+
+#wrap div:first-child + div {
+	padding: 130px 13.54166666666667%;	/* 13.541666..7% => 130px / 960px, 130px 130px 이 되어 실제 260px */
+	background: #f7e041;
+}
+
+
+</style>
+</head>
+<body>
+	<div id="wrap">
+		<div></div><div></div>
+	</div>
+</body>
+</html>

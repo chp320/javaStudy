@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="024827b4-e35d-4a69-aff5-0cc6be1af719" name="Changes" comment="숫자의 합 구하기. 백준 P1546번 문제">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_01/01_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_01/01_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_01/01_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_02/02_1.html" afterDir="false" />
+    <list default="true" id="024827b4-e35d-4a69-aff5-0cc6be1af719" name="Changes" comment="(반응형) 4가지 기술 확인">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_02/02_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_02/02_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_03/03_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_04/04_1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,12 +45,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/leo/IdeaProjects/javaStudy/src/main/java/com/web/doit/_02",
+    "last_opened_file_path": "/Users/leo/IdeaProjects/javaStudy/src/main/java/com/web/doit/_04",
     "spring.configuration.checksum": "94ed1272f5922f490db6892941909321"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/web/doit/_04" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/web/doit/_03" />
       <recent name="$PROJECT_DIR$/src/main/java/com/web/doit/_02" />
       <recent name="$PROJECT_DIR$/src/main/java/com/web/doit/_01" />
     </key>
@@ -105,7 +107,7 @@
       <workItem from="1681044775423" duration="7440000" />
       <workItem from="1681303035657" duration="15885000" />
       <workItem from="1682435323181" duration="1718000" />
-      <workItem from="1683726664320" duration="2890000" />
+      <workItem from="1683726664320" duration="8390000" />
     </task>
     <task id="LOCAL-00001" summary="do it 스터디 소스 커밋">
       <created>1682435947809</created>
@@ -135,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682436978422</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="(반응형) 4가지 기술 확인">
+      <created>1683735125059</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683735125059</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +165,7 @@
     <MESSAGE value="do it 스터디 소스 커밋" />
     <MESSAGE value="숫자의 합 구하기. 백준 P11720번 문제" />
     <MESSAGE value="숫자의 합 구하기. 백준 P1546번 문제" />
-    <option name="LAST_COMMIT_MESSAGE" value="숫자의 합 구하기. 백준 P1546번 문제" />
+    <MESSAGE value="(반응형) 4가지 기술 확인" />
+    <option name="LAST_COMMIT_MESSAGE" value="(반응형) 4가지 기술 확인" />
   </component>
 </project>
