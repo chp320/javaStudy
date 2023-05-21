@@ -4,11 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="024827b4-e35d-4a69-aff5-0cc6be1af719" name="Changes" comment="(반응형) 4가지 기술 확인">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_02/02_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_02/02_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_03/03_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_04/04_1.html" afterDir="false" />
+    <list default="true" id="024827b4-e35d-4a69-aff5-0cc6be1af719" name="Changes" comment="(반응형) 플렉서블 박스, 플렉스 아이템 사용하여 반응형 페이지 제작">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/board.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/favicon/flat-design-touch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/gallery_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/gallery_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/slider_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_09.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/body_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/css_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/html_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/info_icon_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/info_icon_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/info_icon_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/info_icon_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/introduce_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/introduce_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/introduce_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/introduce_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/js_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/list_next_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/list_prev_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/menu_toggle_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/post_circle_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/slider_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/social_icon_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/social_icon_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/social_icon_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/sub_menu_toggle_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/w3c_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/introduce.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/webfont/NanumGothic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/webfont/NanumGothic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +64,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
+        <option value="JSP file(HTML5)" />
       </list>
     </option>
   </component>
@@ -37,6 +83,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -45,16 +92,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/leo/IdeaProjects/javaStudy/src/main/java/com/web/doit/_04",
+    "last_opened_file_path": "/Users/leo/IdeaProjects/javaStudy/src/main/java/com/web/doit/_05/images/s_images",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "spring.configuration.checksum": "94ed1272f5922f490db6892941909321"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java/com/web/doit/_04" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/web/doit/_03" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/web/doit/_02" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/web/doit/_01" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/favicon" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/web/doit/_05/js" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/web/doit/_05/webfont" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.tistory.skyfox83.quartzTest" />
@@ -107,7 +159,7 @@
       <workItem from="1681044775423" duration="7440000" />
       <workItem from="1681303035657" duration="15885000" />
       <workItem from="1682435323181" duration="1718000" />
-      <workItem from="1683726664320" duration="8390000" />
+      <workItem from="1683726664320" duration="12653000" />
     </task>
     <task id="LOCAL-00001" summary="do it 스터디 소스 커밋">
       <created>1682435947809</created>
@@ -144,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683735125059</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="(반응형) 플렉서블 박스, 플렉스 아이템 사용하여 반응형 페이지 제작">
+      <created>1684080903097</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1684080903097</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +225,7 @@
     <MESSAGE value="숫자의 합 구하기. 백준 P11720번 문제" />
     <MESSAGE value="숫자의 합 구하기. 백준 P1546번 문제" />
     <MESSAGE value="(반응형) 4가지 기술 확인" />
-    <option name="LAST_COMMIT_MESSAGE" value="(반응형) 4가지 기술 확인" />
+    <MESSAGE value="(반응형) 플렉서블 박스, 플렉스 아이템 사용하여 반응형 페이지 제작" />
+    <option name="LAST_COMMIT_MESSAGE" value="(반응형) 플렉서블 박스, 플렉스 아이템 사용하여 반응형 페이지 제작" />
   </component>
 </project>
