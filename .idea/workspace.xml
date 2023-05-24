@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="024827b4-e35d-4a69-aff5-0cc6be1af719" name="Changes" comment="(반응형) 웹사이트 준비 - 웹사이트 구조 살펴보기/폴더와 기본 파일 구성하기/기본구조와 기본스타일 작업하기">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/migTest/MyController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/migTest/MyJobConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/migTest/MyQuartzApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/migTest/dao/IMigrationDataDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/migTest/dao/Impl/MigrationDataDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/migTest/dto/MigrationDataDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/migTest/service/IMigrationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/migTest/service/Impl/MigrationServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/MigrationDataDao.xml" afterDir="false" />
+    <list default="true" id="024827b4-e35d-4a69-aff5-0cc6be1af719" name="Changes" comment="Quartz 배치 샘플 구현">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +141,7 @@
       <workItem from="1681044775423" duration="7440000" />
       <workItem from="1681303035657" duration="15885000" />
       <workItem from="1682435323181" duration="1718000" />
-      <workItem from="1683726664320" duration="21340000" />
+      <workItem from="1683726664320" duration="24264000" />
     </task>
     <task id="LOCAL-00001" summary="do it 스터디 소스 커밋">
       <created>1682435947809</created>
@@ -202,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684679110770</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Quartz 배치 샘플 구현">
+      <created>1684938323057</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684938323057</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +223,7 @@
     <MESSAGE value="(반응형) 4가지 기술 확인" />
     <MESSAGE value="(반응형) 플렉서블 박스, 플렉스 아이템 사용하여 반응형 페이지 제작" />
     <MESSAGE value="(반응형) 웹사이트 준비 - 웹사이트 구조 살펴보기/폴더와 기본 파일 구성하기/기본구조와 기본스타일 작업하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="(반응형) 웹사이트 준비 - 웹사이트 구조 살펴보기/폴더와 기본 파일 구성하기/기본구조와 기본스타일 작업하기" />
+    <MESSAGE value="Quartz 배치 샘플 구현" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quartz 배치 샘플 구현" />
   </component>
 </project>
