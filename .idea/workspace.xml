@@ -4,56 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="024827b4-e35d-4a69-aff5-0cc6be1af719" name="Changes" comment="(반응형) 플렉서블 박스, 플렉스 아이템 사용하여 반응형 페이지 제작">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/board.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/favicon/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/favicon/flat-design-touch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/gallery_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/gallery_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/slider_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/p_images/sub_gallery_12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/body_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/css_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/html_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/info_icon_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/info_icon_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/info_icon_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/info_icon_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/introduce_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/introduce_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/introduce_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/introduce_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/js_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/list_next_btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/list_prev_btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/menu_toggle_btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/post_circle_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/slider_arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/social_icon_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/social_icon_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/social_icon_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/sub_menu_toggle_btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/images/s_images/w3c_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/introduce.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/webfont/NanumGothic.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/webfont/NanumGothic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+    <list default="true" id="024827b4-e35d-4a69-aff5-0cc6be1af719" name="Changes" comment="(반응형) 웹사이트 준비 - 웹사이트 구조 살펴보기/폴더와 기본 파일 구성하기/기본구조와 기본스타일 작업하기">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/migTest/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/migTest/MyJobConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/migTest/MyQuartzApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/migTest/dao/IMigrationDataDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/migTest/dao/Impl/MigrationDataDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/migTest/dto/MigrationDataDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/migTest/service/IMigrationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/migTest/service/Impl/MigrationServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/MigrationDataDao.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,9 +26,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
         <option value="JSP file(HTML5)" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -112,7 +76,7 @@
       <recent name="com.tistory.skyfox83.quartzTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.p1546">
+  <component name="RunManager" selected="Spring Boot.MyQuartzApplication">
     <configuration name="p11720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.baekjoon.datastructure.p11720" />
       <module name="javaStudy" />
@@ -139,8 +103,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyQuartzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="javaStudy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tistory.skyfox83.migTest.MyQuartzApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tistory.skyfox83.migTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuartzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="javaStudy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tistory.skyfox83.quartzTest.QuartzApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tistory.skyfox83.quartzTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.MyQuartzApplication" />
+        <item itemvalue="Spring Boot.QuartzApplication" />
         <item itemvalue="Application.p1546" />
         <item itemvalue="Application.p11720" />
       </list>
@@ -159,7 +151,7 @@
       <workItem from="1681044775423" duration="7440000" />
       <workItem from="1681303035657" duration="15885000" />
       <workItem from="1682435323181" duration="1718000" />
-      <workItem from="1683726664320" duration="12653000" />
+      <workItem from="1683726664320" duration="21340000" />
     </task>
     <task id="LOCAL-00001" summary="do it 스터디 소스 커밋">
       <created>1682435947809</created>
@@ -203,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684080903097</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="(반응형) 웹사이트 준비 - 웹사이트 구조 살펴보기/폴더와 기본 파일 구성하기/기본구조와 기본스타일 작업하기">
+      <created>1684679110770</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1684679110770</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +225,7 @@
     <MESSAGE value="숫자의 합 구하기. 백준 P1546번 문제" />
     <MESSAGE value="(반응형) 4가지 기술 확인" />
     <MESSAGE value="(반응형) 플렉서블 박스, 플렉스 아이템 사용하여 반응형 페이지 제작" />
-    <option name="LAST_COMMIT_MESSAGE" value="(반응형) 플렉서블 박스, 플렉스 아이템 사용하여 반응형 페이지 제작" />
+    <MESSAGE value="(반응형) 웹사이트 준비 - 웹사이트 구조 살펴보기/폴더와 기본 파일 구성하기/기본구조와 기본스타일 작업하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="(반응형) 웹사이트 준비 - 웹사이트 구조 살펴보기/폴더와 기본 파일 구성하기/기본구조와 기본스타일 작업하기" />
   </component>
 </project>

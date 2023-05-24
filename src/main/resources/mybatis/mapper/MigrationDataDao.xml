@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!-- namespace는 어떤 인터페이스와 관련된 매퍼인지 정의. 아래 SQL의 태그 id는 인터페이스에 정의된 id  -->
+<mapper namespace="com.tistory.skyfox83.migTest.dao.IMigrationDataDao">
+    <select id="listDao" resultType="com.tistory.skyfox83.migTest.dto.MigrationDataDto">
+        select * from kbm_cust_info order by imsi1 desc
+    </select>
+</mapper>
