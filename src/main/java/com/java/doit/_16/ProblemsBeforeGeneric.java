@@ -14,7 +14,7 @@ class Goods1 {
     }
 }
 
-// pencil 클래스와 pencil 클래스를 담을 수 있는 goods2 클래스
+// pencil 클래스와 pencil 클래스를 담을 수 있는 goods2 클래스. test
 class Pencil {}
 class Goods2 {
     private Pencil pencil = new Pencil();

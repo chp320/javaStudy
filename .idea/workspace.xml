@@ -4,23 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="024827b4-e35d-4a69-aff5-0cc6be1af719" name="Changes" comment="양방향/단방향 암호화 구현">
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/cipherTest/RSACryptography.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/csvTest/CsvReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/csvTest/CsvTestApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/csvTest/CsvWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/csvTest/FileItemReaderJobConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/csvTest/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/csvTest2/CsvTestApplication2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tistory/skyfox83/csvTest2/GoCsv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com.tistory.skyfox83.excelTest2/create-table.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com.tistory.skyfox83.excelTest2/input.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/schema-all.sql" afterDir="false" />
+    <list default="true" id="024827b4-e35d-4a69-aff5-0cc6be1af719" name="Changes" comment="CSV 파일 업로드 기능 구현 테스트">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/web/doit/_05/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java/doit/_16/ProblemsBeforeGeneric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java/doit/_16/ProblemsBeforeGeneric.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,30 +37,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/leo/IdeaProjects/javaStudy/src/main/java/com/web/doit/_05/images/s_images",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "spring.configuration.checksum": "94ed1272f5922f490db6892941909321"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/leo/IdeaProjects/javaStudy/src/main/java/com/web/doit/_05/images/s_images&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;94ed1272f5922f490db6892941909321&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect": [
-      "HSQLDB"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect&quot;: [
+      &quot;HSQLDB&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.tistory.skyfox83.csvTest" />
@@ -89,13 +77,13 @@
       <recent name="com.tistory.skyfox83.quartzTest" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.CsvTestApplication2">
-    <configuration name="RSACryptography" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.doit.cipherTest.RSACryptography" />
+  <component name="RunManager" selected="Spring Boot.CsvTestApplication">
+    <configuration name="JwtTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tistory.skyfox83.authTest.JwtTest" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.doit.cipherTest.*" />
+          <option name="PATTERN" value="com.tistory.skyfox83.authTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SHA256HashingWithSalt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.doit.cipherTest.SHA256HashingWithSalt" />
+    <configuration name="RSACryptography" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.doit.cipherTest.RSACryptography" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -157,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.CsvTestApplication2" />
         <item itemvalue="Spring Boot.CsvTestApplication" />
+        <item itemvalue="Application.JwtTest" />
+        <item itemvalue="Spring Boot.CsvTestApplication2" />
         <item itemvalue="Spring Boot.MyQuartzApplication" />
         <item itemvalue="Application.RSACryptography" />
-        <item itemvalue="Application.SHA256HashingWithSalt" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +181,14 @@
       <workItem from="1690987444354" duration="445000" />
       <workItem from="1691066654109" duration="540000" />
       <workItem from="1691331530570" duration="476000" />
-      <workItem from="1692017570926" duration="15812000" />
+      <workItem from="1692017570926" duration="16071000" />
+      <workItem from="1698647874242" duration="63000" />
+      <workItem from="1700053897831" duration="613000" />
+      <workItem from="1700311933528" duration="12000" />
+      <workItem from="1700311958068" duration="12000" />
+      <workItem from="1700311984179" duration="4168000" />
+      <workItem from="1701865063252" duration="78000" />
+      <workItem from="1704045677327" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="do it 스터디 소스 커밋">
       <created>1682435947809</created>
@@ -272,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689780951374</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="CSV 파일 업로드 기능 구현 테스트">
+      <created>1692035619148</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1692035619148</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,6 +301,7 @@
     <MESSAGE value="Quartz 배치 샘플 구현" />
     <MESSAGE value="(반응형) 메인페이지 기본 레이아웃 구성" />
     <MESSAGE value="양방향/단방향 암호화 구현" />
-    <option name="LAST_COMMIT_MESSAGE" value="양방향/단방향 암호화 구현" />
+    <MESSAGE value="CSV 파일 업로드 기능 구현 테스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSV 파일 업로드 기능 구현 테스트" />
   </component>
 </project>

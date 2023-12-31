@@ -49,6 +49,18 @@
             <version>RELEASE</version>
             <scope>compile</scope>
         </dependency>
+        <!-- jjwt: JWT 토큰 생성 및 파싱/검증하는 라이브러리 추가 -->
+        <dependency>
+            <groupId>io.jsonwebtoken</groupId>
+            <artifactId>jjwt</artifactId>
+            <version>0.9.1</version>
+        </dependency>
+        <!-- JWT -->
+        <dependency>
+            <groupId>com.auth0</groupId>
+            <artifactId>java-jwt</artifactId>
+            <version>3.4.0</version>
+        </dependency>
     </dependencies>
 
     <build>
